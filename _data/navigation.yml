@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+  
+  - title: "Teaching"
+    url: /teach/ 
+    
+  - title: "Education"
+    url: /education/ 
+   
+  - title: "Skills"
+    url: /skills/ 
+  
+  - title: "Achievements"
+    url: /achievements/ 
+    
+  - title: "Misc"
+    url: /misc/ 
+    
+#   - title: "Talks"
+#     url: /talks/    
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "Guide"
+#     url: /markdown/
