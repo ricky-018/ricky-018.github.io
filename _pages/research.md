@@ -1,11 +1,22 @@
 ---
-title: "Research Interest"
+title: "Education"
 excerpt: ""
 author_profile: true
 permalink: /research/
 redirect_from: 
   - /about.html
 ---
+
+**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/me)**   
+*Bachelor of Science in Mechanical Engineering*   
+Study Period: <b>March 2014 - October 2018</b>   
+CGPA: <b>3.22/4.00</b>  
+
+## <font color="#00cc66"> Undergraduate Research </font>
+
+**Research Title:**   “Design and Fabrication of a Low Cost Customizable Modern CNC LASER Cutter”
+*Research Supervisor: Syed Masrur Ahmmed*
+*Chittagong University of Engineering and Technology (CUET)*
 
 My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
 

@@ -13,12 +13,13 @@ Study Period: <b>March 2014 - October 2018</b>
 CGPA: <b>3.22/4.00</b>  
 
 
-## <font color="#00cc66"> Employment </font>
- **Lecturer <font color="#541A75">[July 2019 - Present]</font>**   
- *Computer Science and Engineering, CUET*
+## <font color="#00cc66"> Undergraduate Research </font>
 
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
- *Computer Science and Engineering, CUET*
+**Research Title:**   “Design and Fabrication of a Low Cost Customizable Modern CNC LASER Cutter”
+*Research Supervisor: Syed Masrur Ahmmed*
+*Chittagong University of Engineering and Technology (CUET)*
+
+
 
 ## <font color="#00cc66"> Certifications </font>
 
