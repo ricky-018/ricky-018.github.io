@@ -7,21 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Master of Science in Computer Science and Engineering*   
-Study Period: <b>August 2019 - January 2022</b>   
-CGPA: <b>4.00/4.00</b>  
-Position: <b>1<sup>st</sup>/48</b>    
-Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) Lab: [CUET NLP](https://cuetnlp.com)
-
-
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelor of Science in Computer Science and Engineering*   
-Study Period: <b>March 2014 - November 2018</b>   
-CGPA: <b>3.90/4.00</b>  
-Position: <b>1<sup>st</sup>/103</b>   
-Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) 
+**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/me)**   
+*Bachelor of Science in Mechanical Engineering*   
+Study Period: <b>March 2014 - October 2018</b>   
+CGPA: <b>3.22/4.00</b>  
 
 
 ## <font color="#00cc66"> Employment </font>
