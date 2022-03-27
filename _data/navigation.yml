@@ -3,20 +3,22 @@ main:
   - title: "Research and Education"
     url: /research/
   
-  - title: "Teaching"
-    url: /teach/ 
+  - title: "Experience"
+    url: /experience/ 
     
-  - title: "Education"
-    url: /education/ 
-   
-  - title: "Skills"
-    url: /skills/ 
-  
+  - title: "Projects"
+    url: /projects/ 
+
   - title: "Achievements"
     url: /achievements/ 
+
+  # - title: "Skills"
+  #   url: /skills/ 
+  
+
     
-  - title: "Misc"
-    url: /misc/ 
+  # - title: "Misc"
+  #   url: /misc/ 
     
 #   - title: "Talks"
 #     url: /talks/    
