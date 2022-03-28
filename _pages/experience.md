@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Senior Officer (Engineering Department)**   
-*Renata Limited.*   
+**Senior Officer (Engineering Department),** 
+*Renata Limited.*   [Jul, 2019 - Present]
 *<b>Responsibilities:</b> Industrial Machine Vision and Automation R&D (Research and Development)*
 
 
