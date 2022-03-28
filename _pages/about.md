@@ -25,5 +25,5 @@ Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from
 
 <b>Contact: 📧</b> [<font color= "#990033" >radifuddinahmed@gmail.com</font>](radifuddinahmed@gmail.com)
 
-<b>My latest cv: </b> <a href="../files/CV_RadifUddinAhmed.pdf"><font color="#990033">omar-sharif-cv</font></a>
+<b>My latest cv: </b> <a href="../files/CV_RadifUddinAhmed.pdf"><font color="#990033">Radid-Uddin_CV</font></a>
 

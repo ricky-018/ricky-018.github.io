@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research and Education"
+  - title: "Education and Research"
     url: /research/
   
   - title: "Experience"
@@ -9,7 +9,7 @@ main:
   - title: "Projects"
     url: /projects/ 
 
-  - title: "Achievements"
+  - title: "Achievements and Activities"
     url: /achievements/ 
 
   - title: "Referees"
