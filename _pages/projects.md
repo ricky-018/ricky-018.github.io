@@ -96,7 +96,7 @@ redirect_from:
 		<div class="container">
 			<div class="card">
 				<div class="card-header">
-				  <img src="https://c0.wallpaperflare.com/preview/483/210/436/car-green-4x4-jeep.jpg" alt="rover" />
+				  <img src="../files/images/p1.JPG" alt="rover" />
 				</div>
 				<div class="card-body">
 				  <span class="tag tag-teal">Technology</span>
@@ -116,10 +116,10 @@ redirect_from:
 				  </div>
 				</div>
 			</div>
-				<!--  -->
+				<!--  --> 
 			<div class="card">
 				<div class="card-header">
-				  <img src="https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg" alt="ballons" />
+				  <img src="../files/images/p2.JPG" alt="ballons" />
 				</div>
 				<div class="card-body">
 				  <span class="tag tag-purple">Popular</span>
@@ -142,7 +142,7 @@ redirect_from:
 			<!--  -->
 			<div class="card">
 				<div class="card-header">
-				  <img src="https://images6.alphacoders.com/312/thumb-1920-312773.jpg" alt="city" />
+				  <img src="../files/images/p3.JPG" alt="city" />
 				</div>
 				<div class="card-body">
 				  <span class="tag tag-pink">Design</span>
