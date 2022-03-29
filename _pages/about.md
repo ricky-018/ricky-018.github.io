@@ -13,15 +13,18 @@ redirect_from:
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
 -->
+*A Robotics and Machine Learning enthusiast.*
 
 <p align="justify">
 
-Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages. I am also excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+To be able to create and control something has always been my fascination from my early childhood. This fascination had turned into my obsession since I was introduced to microcontroller and robotics thanks to different voluntary technical organizations of my university. Luckily, I have got the opportunity to explore the versatile world of Robotics, Embedded Systems, and Additive Manufacturing through conducting voluntary research work, Attending lectures and participating in several national and international competitions. So, after four years of undergraduate studies I have earned my bachelor’s degree in Mechanical Engineering along with research experience in mechanical and mechatronics engineering.
 </p> 
  
 <p align="justify">
-Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://cuetnlp.com/people/"> Dr. Moshiul Hoque</a> as a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
-</p>
+Currently, I am employed as maintenance and automation engineer at Renata Limited. Here I had the opportunity to work in the field of industrial automation further expanding my knowledge in mechatronics engineering. My ongoing research is regarding machine vision and embedded machine vision which in turns introduced me to machine learning. From that moment on I was amazed by the posibilites of this field along with robotics hence I plan to take my knowledge to the farthest in this field. 
+
+</p> 
+ 
 
 <b>Contact: 📧</b> [<font color= "#990033" >radifuddinahmed@gmail.com</font>](radifuddinahmed@gmail.com)
 
